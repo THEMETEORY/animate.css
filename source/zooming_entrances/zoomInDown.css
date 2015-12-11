@@ -12,6 +12,6 @@
   }
 }
 
-.zoomInDown {
+.os_start_animation.zoomInDown {
   animation-name: zoomInDown;
 }

@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInUp {
+.os_start_animation.fadeInUp {
   animation-name: fadeInUp;
 }

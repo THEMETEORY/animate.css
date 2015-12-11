@@ -26,6 +26,6 @@
   }
 }
 
-.bounceInDown {
+.os_start_animation.bounceInDown {
   animation-name: bounceInDown;
 }

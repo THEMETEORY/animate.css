@@ -9,6 +9,6 @@
   }
 }
 
-.slideOutLeft {
+.os_start_animation.slideOutLeft {
   animation-name: slideOutLeft;
 }

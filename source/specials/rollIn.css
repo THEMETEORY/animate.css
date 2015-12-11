@@ -12,6 +12,6 @@
   }
 }
 
-.rollIn {
+.os_start_animation.rollIn {
   animation-name: rollIn;
 }

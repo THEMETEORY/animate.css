@@ -9,6 +9,6 @@
   }
 }
 
-.slideInUp {
+.os_start_animation.slideInUp {
   animation-name: slideInUp;
 }

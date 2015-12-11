@@ -9,7 +9,7 @@
   }
 }
 
-.lightSpeedOut {
+.os_start_animation.lightSpeedOut {
   animation-name: lightSpeedOut;
   animation-timing-function: ease-in;
 }

@@ -12,6 +12,6 @@
   }
 }
 
-.zoomInRight {
+.os_start_animation.zoomInRight {
   animation-name: zoomInRight;
 }

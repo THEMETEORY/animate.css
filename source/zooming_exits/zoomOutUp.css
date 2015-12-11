@@ -13,6 +13,6 @@
   }
 }
 
-.zoomOutUp {
+.os_start_animation.zoomOutUp {
   animation-name: zoomOutUp;
 }

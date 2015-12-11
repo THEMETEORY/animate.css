@@ -12,6 +12,6 @@
   }
 }
 
-.rotateIn {
+.os_start_animation.rotateIn {
   animation-name: rotateIn;
 }

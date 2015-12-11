@@ -24,7 +24,7 @@
   }
 }
 
-.flipInX {
+.os_start_animation.flipInX {
   backface-visibility: visible !important;
   animation-name: flipInX;
 }

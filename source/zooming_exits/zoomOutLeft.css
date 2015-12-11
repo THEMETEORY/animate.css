@@ -11,6 +11,6 @@
   }
 }
 
-.zoomOutLeft {
+.os_start_animation.zoomOutLeft {
   animation-name: zoomOutLeft;
 }

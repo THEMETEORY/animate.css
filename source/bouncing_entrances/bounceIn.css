@@ -31,6 +31,6 @@
   }
 }
 
-.bounceIn {
+.os_start_animation.bounceIn {
   animation-name: bounceIn;
 }

@@ -12,6 +12,6 @@
   }
 }
 
-.rotateInDownRight {
+.os_start_animation.rotateInDownRight {
   animation-name: rotateInDownRight;
 }

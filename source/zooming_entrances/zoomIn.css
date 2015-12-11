@@ -9,6 +9,6 @@
   }
 }
 
-.zoomIn {
+.os_start_animation.zoomIn {
   animation-name: zoomIn;
 }

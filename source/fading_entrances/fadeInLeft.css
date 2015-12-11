@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInLeft {
+.os_start_animation.fadeInLeft {
   animation-name: fadeInLeft;
 }

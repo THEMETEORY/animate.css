@@ -1,23 +1,23 @@
 {
 
   "attention_seekers": {
-    "bounce": false,
+    "bounce": true,
     "flash": false,
     "pulse": true,
     "rubberBand": false,
     "shake": true,
     "swing": true,
-    "tada": false,
+    "tada": true,
     "wobble": false,
     "jello": false
   },
 
   "bouncing_entrances": {
-    "bounceIn": false,
-    "bounceInDown": false,
-    "bounceInLeft": false,
-    "bounceInRight": false,
-    "bounceInUp": false
+    "bounceIn": true,
+    "bounceInDown": true,
+    "bounceInLeft": true,
+    "bounceInRight": true,
+    "bounceInUp": true
   },
 
   "bouncing_exits": {
@@ -66,11 +66,11 @@
   },
 
   "rotating_entrances": {
-    "rotateIn": false,
-    "rotateInDownLeft": false,
-    "rotateInDownRight": false,
-    "rotateInUpLeft": false,
-    "rotateInUpRight": false
+    "rotateIn": true,
+    "rotateInDownLeft": true,
+    "rotateInDownRight": true,
+    "rotateInUpLeft": true,
+    "rotateInUpRight": true
   },
 
   "rotating_exits": {
@@ -83,24 +83,24 @@
 
   "specials": {
     "hinge": false,
-    "rollIn": false,
+    "rollIn": true,
     "rollOut": false
   },
 
   "zooming_entrances": {
     "zoomIn": true,
-    "zoomInDown": false,
-    "zoomInLeft": false,
-    "zoomInRight": false,
-    "zoomInUp": false
+    "zoomInDown": true,
+    "zoomInLeft": true,
+    "zoomInRight": true,
+    "zoomInUp": true
   },
 
   "zooming_exits": {
     "zoomOut": true,
-    "zoomOutDown": false,
-    "zoomOutLeft": false,
-    "zoomOutRight": false,
-    "zoomOutUp": false
+    "zoomOutDown": true,
+    "zoomOutLeft": true,
+    "zoomOutRight": true,
+    "zoomOutUp": true
   },
 
   "sliding_entrances": {
@@ -111,9 +111,9 @@
   },
 
   "sliding_exits": {
-    "slideOutDown": false,
-    "slideOutLeft": false,
-    "slideOutRight": false,
-    "slideOutUp": false
+    "slideOutDown": true,
+    "slideOutLeft": true,
+    "slideOutRight": true,
+    "slideOutUp": true
   }
 }

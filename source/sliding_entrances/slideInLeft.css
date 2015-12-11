@@ -9,6 +9,6 @@
   }
 }
 
-.slideInLeft {
+.os_start_animation.slideInLeft {
   animation-name: slideInLeft;
 }

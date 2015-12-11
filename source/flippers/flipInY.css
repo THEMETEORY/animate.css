@@ -24,7 +24,7 @@
   }
 }
 
-.flipInY {
+.os_start_animation.flipInY {
   backface-visibility: visible !important;
   animation-name: flipInY;
 }

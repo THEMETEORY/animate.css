@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInRight {
+.os_start_animation.fadeInRight {
   animation-name: fadeInRight;
 }

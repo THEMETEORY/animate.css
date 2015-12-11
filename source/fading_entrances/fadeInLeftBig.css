@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInLeftBig {
+.os_start_animation.fadeInLeftBig {
   animation-name: fadeInLeftBig;
 }
