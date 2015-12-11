@@ -52,7 +52,7 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-.bounce {
+.os_start_animation.bounce {
   animation-name: bounce;
   transform-origin: center bottom;
 }
@@ -73,7 +73,7 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-.pulse {
+.os_start_animation.pulse {
   animation-name: pulse;
 }
 
@@ -91,7 +91,7 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-.shake {
+.os_start_animation.shake {
   animation-name: shake;
 }
 
@@ -117,7 +117,7 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-.swing {
+.os_start_animation.swing {
   transform-origin: top center;
   animation-name: swing;
 }
@@ -144,7 +144,7 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-.tada {
+.os_start_animation.tada {
   animation-name: tada;
 }
 

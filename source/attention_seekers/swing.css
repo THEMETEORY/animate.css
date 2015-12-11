@@ -20,7 +20,7 @@
   }
 }
 
-.swing {
+.os_start_animation.swing {
   transform-origin: top center;
   animation-name: swing;
 }

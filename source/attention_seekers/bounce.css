@@ -19,7 +19,7 @@
   }
 }
 
-.bounce {
+.os_start_animation.bounce {
   animation-name: bounce;
   transform-origin: center bottom;
 }

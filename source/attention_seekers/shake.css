@@ -12,6 +12,6 @@
   }
 }
 
-.shake {
+.os_start_animation.shake {
   animation-name: shake;
 }
